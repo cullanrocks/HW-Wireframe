@@ -1,0 +1,84 @@
+ header {
+ 	height: 100px;
+  	width: 960px;
+  	background: #ccc;
+  	text-align: center;
+  	overflow: auto;
+  	margin-bottom: 20px;
+}
+
+body {
+	
+	width: 960px;
+	background: #777;
+	font-family: "Arial," "Helvetica Neue," Helvetica, sans-serif;
+	font-size: 18px;
+	margin: auto;
+}
+
+
+.navbar{
+	padding-top: 20px;
+	height: 80px;
+  	width: 960px;
+  	margin-bottom: 20px;
+  	background: #ccc;
+  	text-align: center;
+  	overflow: auto;
+}
+
+
+.section {
+	padding-top: 20px;
+	height: 430px;
+	margin-bottom: 20px;
+	width: 495px;
+	background: #ccc;
+	text-align: center;
+	float: left;
+}
+
+.article {
+	padding-top: 20px;
+	background: #777;
+	overflow: auto;
+	margin: 20px;
+	text-align: center;
+	overflow: auto;
+}
+
+.headlines {
+	background: #ccc;
+  	text-align: center;
+	overflow: auto;
+	margin: 20px;
+}
+
+
+.paragraph {
+	background: #ccc;
+  	text-align: center;
+  	overflow: auto;
+  	margin: 20px;
+}
+
+.aside {
+	height: 430px;
+	width: 445px;
+	padding-top: 20px;
+	background: #ccc;
+	text-align: center;
+	overflow: auto;
+	float: right;
+}
+
+.footer {
+	height: 60px;
+ 	width: 960px;
+ 	padding-top: 20px;
+ 	padding-bottom: 20px;
+ 	background: #ccc;
+ 	text-align: center;
+  	overflow: auto;
+	
+}
